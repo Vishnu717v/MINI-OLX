@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;600;800&display=swap');
+
+
+.head{
+    font-family: 'Poppins', sans-serif;
+    text-transform: uppercase;
+}
+.bor{
+    border: 5px solid black;
+    padding: 3px 40px 3px 2.5rem ;
+    border-radius: 10px;
+    font-family: 'Oswald', sans-serif;
+
+}
+
+.pic img{
+    
+    border-radius: 50px;
+    
+}
+
+.hi{
+    
+    font-family: 'Oswald', sans-serif;   
+
+}
+
+.save{
+    border: 5px solid black;
+    padding: 3px 40px 3px 2.5rem ;
+    border-radius: 10px;
+    font-family: 'Oswald', sans-serif;
+}
